@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "VariableExample1": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
